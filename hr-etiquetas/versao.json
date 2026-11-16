@@ -1,8 +1,14 @@
 {
   "versao": "0.1.0",
   "data": "16/11/2026",
-  "download": "https://drive.google.com/drive/folders/1_Ds0QE7BPiYmjpkaPK409bFukc4WleiH?usp=drive_link",
+  "download": "https://drive.google.com/file/d/ID-DO-INSTALADOR/view",
   "novidades": [
     "Primeira versão."
-  ]
+  ],
+  "catalogo": {
+    "titulo": "Catálogo com milhares de produtos",
+    "texto": "Nome, código de barras, marca, categoria e foto prontos para importar. Entrega pelo Google Drive.",
+    "preco": "R$ 49,90",
+    "link": "https://produto.mercadolivre.com.br/MLB-SEU-ANUNCIO"
+  }
 }
